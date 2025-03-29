@@ -11,3 +11,4 @@
 
 ### Otra Información
 Estoy cursando el segundo año de la Tecnicatura en Programción, me cambié de carrera el año pasado, antes estaba en Programación de Videojuegos, pero cuando vi lo que es la programación pura me termine decantando más por ese camino.
+Tengo 2 años de experciencia laboral
