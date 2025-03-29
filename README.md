@@ -4,10 +4,10 @@
 ## Presentación Personal
 
 ### Datos Personales
-- Mi nombre es:
-- Vivo en
+- Mi nombre es Sebastian Gabriel Borja
+- Vivo en Hurlingham, Villa Tesei
+- Tengo 23 años
 
 
 ### Otra Información
-- Este es mi primer contacto con github
-- Tengo un gato que se llama Timoteol
+Estoy cursando el segundo año de la Tecnicatura en Programción, me cambié de carrera el año pasado, antes estaba en Programación de Videojuegos, pero cuando vi lo que es la programación pura me termine decantando más por ese camino.
